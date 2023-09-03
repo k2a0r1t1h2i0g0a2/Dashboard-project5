@@ -1,0 +1,121 @@
+.search {
+    width: 655px;
+    height: 52px;
+    flex-shrink: 0;
+    border-radius: 3px;
+    border: 1px solid rgba(0, 0, 0, 0.20);
+    background: #FFF;
+    text-align: left;
+    color: #ADA7A7;
+}
+
+.medico {
+
+    width: 230px;
+    height: 600px;
+    background-color: #FFF;
+    color: #013CC6;
+    font-family: Poppins;
+    font-size: xx-large;
+    font-weight: bolder;
+    padding-top: 10px;
+}
+
+.dashBoard {
+
+    color: #0B63F8;
+    font-family: Poppins;
+    font-size: large;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.32px;
+    padding-top: 20px;
+    margin-right: 40px;
+}
+
+.list {
+    color: #000;
+    font-family: Poppins;
+    font-size: large;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.32px;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+
+.line {
+    display: grid;
+    grid-template-columns: auto auto;
+    text-align: left;
+    padding-top: 30px;
+}
+
+h2 {
+    padding-top: 31px;
+}
+
+.head {
+    padding-top: 30px;
+}
+
+.head .head1>Col {
+    color: #000;
+    font-family: Poppins;
+    font-size: large;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.head .head1 {
+    padding-top: 30px;
+    font-size: large;
+}
+.subhead{
+    padding-top: 15px;
+    text-align: left;
+    font-weight: bolder;
+    font-size: small;
+    
+       
+}
+.box{
+background-color: #FFF;
+width: 97%;
+height:45px;
+display: flex;
+justify-content: space-between;
+flex-direction: column;
+align-items: flex-start;
+margin-left: 6px;
+margin-top: 40px;
+}
+.box1{
+    background-color: #FFF;
+    width: 97%;
+    height: 80px;
+   
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 6px;
+   font-size: small;
+    padding-top: 45px;
+    text-align: left;
+  padding-left:  10px;
+}
+.footer{
+    font-size: large;
+    font-family:poppins;
+    color: #131313;
+    font-weight: 400;
+    padding-top: 450px;
+    margin-right: 50px;
+}
+.head1 >input{
+    border-radius: 5px;
+}
